@@ -1,7 +1,8 @@
 @charset "utf-8";
 /* Creado por Alejandro Sánchez Folgado */
 body{ 
-    background-color: green;
+    background-color: rgb(45, 134, 82);
+    font-size: 150%
 }
 h1{
     text-transform: capitalize
